@@ -47,4 +47,11 @@ Letgo has not published a stand-alone law enforcement legal guide or online reso
 
 The application is available through either the Apple app store for IOS devices or the Google Play store for Android devices.  The app can be used immediately without an account creation or activation.  An account does need to be created and verified to post items for sale or send messages to other users.  Account creation requires only a valid email address.  There are options to enter additional personal information including location, phone number, and profile image.  
 
-**INFORMATION LETGO REQUIRES TO IDENTIFY TARGET ACCOUNT** 
+**INFORMATION LETGO REQUIRES TO IDENTIFY TARGET ACCOUNT**  
+
+Letgo legal department advises the following:  
+
+*Send the suspects Letgo username, email address, a URL link to the user's profile or listed ad, the victim's Letgo account information, and if available, relevant chat messages between users, in order for Letgo to provide accurate information.  Please include your department name, full name, rank, badge number, case number, and contact information, including phone number and email.*  
+
+*Our release policies require that you submit a subpoena for basic subscriber information, or a search warrant for basic information and content, such as listed items, chat log information, IP addresses, and details.  Upon receipt, we will process the data readily.*  
+   

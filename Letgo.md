@@ -89,7 +89,7 @@ APPLE IOS
 
 The Letgo application was installed on an Apple Ipad operating IOS 11.2.1.  As with the Android device the app was used to post a sale ad and exchange chat messages with other users.  
 
-The device was examined using the mobile device forensic tool Lantern.  The results were similar to those found during the exmaination of the Android device.  None of the images, chat messages, or databases were recovered.
+The device was examined using the mobile device forensic tool Lantern.  The results were similar to those found during the examination of the Android device as none of the images, chat messages, or databases were recovered.
 
 \* Images that were first saved to the camera roll and then posted to the Letgo ad were recovered.  Images taken from within the application were not located.  
 
@@ -105,7 +105,7 @@ The author invites direct notices that correct errors, omissions, or provided up
 
 **LEGAL DISCLAIMER**  
 
-The author is not an attorney and therefor not qualified to provide legal advise.  Additionally, the author commonly makes foolish mistakes, such as once purchasing a subscription to an anti-virus software that came pre-installed on a PC.  It is strongly suggested that you consult with a prosecuting attorney within your legal jurisdiction before utilizing any of the information contained within this document.  
+The author is not an attorney and therefor not qualified to provide legal advice.  Additionally, the author commonly makes foolish mistakes, such as once purchasing a subscription to an anti-virus software that came pre-installed on a PC.  It is strongly suggested that you consult with a prosecuting attorney of your legal jurisdiction before utilizing any of the information contained within this document.  
 
 **CONTACT INFORMATION**  
 
@@ -115,6 +115,6 @@ The author is not an attorney and therefor not qualified to provide legal advise
 
  **CHANGELOG**  
 
- 1/10/18 - V.1.0 Original Publication
+ 1/10/18 - V.1.0 Original Publication  
+
  2/17/18 - V.1.1 Document of findings- Android device examined with Cellebrite UFED 6.4.5.119  
- 

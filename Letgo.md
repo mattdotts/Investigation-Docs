@@ -4,13 +4,13 @@
 
 ###### Release 1.1 \(02/17/18\)
 ___
-**INTRODUCTION**
+__**INTRODUCTION**__
 
 Letgo is a no-fee classified advertisement platform that allows users to buy and sell items locally.  The application includes a chat function that allows buyers and sellers to instantly connect and communicate within the app.  This eliminates the need for external communications such as phone and email which can result in missed connection and time delays.  
 The Letgo application is available for both IOS and Android mobile devices.  There is also a web based version for those users utilizing traditional computer devices.  Letgo claims 75 million app downloads and over 200 million classified as listings since its launch in 2015.  The company claims that sellers are currently listing over 500,000 ads per day.  
 Letgo is a subsidiary of Ambatana Holdings B.V. headquartered in the Netherlands.  It has offices on both New York, New York and Barcelona, Spain.  
 
-**LAW ENFORCEMENT CONTACT INFORMATION**
+__**LAW ENFORCEMENT CONTACT INFORMATION**__
 
 Letgo  
 P.O. Box 924  
@@ -19,14 +19,14 @@ New York, NY  10014
 
 <lawenforcement@letgo.com>  
 
-**BUSINESS CONTACT INFORMATION**  
+__**BUSINESS CONTACT INFORMATION**__  
 
 Ambatana Holdings B.V.   
 175 Varick St.  
 New York, NY 10014  
 650-453-8461  
 
-**INFORMATION COLLECTED BY BUSINESS**  
+__**INFORMATION COLLECTED BY BUSINESS**__  
 
 Upon service of a Search Warrant or Court Order, Letgo may be able to provide the following:  
 * Names provided at account creation
@@ -39,15 +39,15 @@ Upon service of a Search Warrant or Court Order, Letgo may be able to provide th
 * IP address collected at time of ad posting
 * Device ID used for account creation  
 
-**LAW ENFORCEMENT ASSISTANCE LEGAL GUIDE**  
+__**LAW ENFORCEMENT ASSISTANCE LEGAL GUIDE**__  
 
 Letgo has not published a stand-alone law enforcement legal guide or online resource.  
 
-**INFORMATION COLLECTED BY APPLICATION AT SIGN-UP**  
+__**INFORMATION COLLECTED BY APPLICATION AT SIGN-UP**__  
 
 The application is available through either the Apple app store for IOS devices or the Google Play store for Android devices.  The app can be used immediately without an account creation or activation.  An account does need to be created and verified to post items for sale or send messages to other users.  Account creation requires only a valid email address.  There are options to enter additional personal information including location, phone number, and profile image.  
 
-**INFORMATION LETGO REQUIRES TO IDENTIFY TARGET ACCOUNT**  
+__**INFORMATION LETGO REQUIRES TO IDENTIFY TARGET ACCOUNT**__  
 
 Letgo legal department advises the following:  
 
@@ -55,10 +55,22 @@ Letgo legal department advises the following:
 
 *Our release policies require that you submit a subpoena for basic subscriber information, or a search warrant for basic information and content, such as listed items, chat log information, IP addresses, and details.  Upon receipt, we will process the data readily.*  
 
-**SAMPLE SEARCH WARRANT LANGUAGE**  
+__**SAMPLE SEARCH WARRANT LANGUAGE**__  
 
 Items to be searched for and seized:
 
 Suspect is a seller  
 
 *Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  
+
+Suspect is a buyer
+
+*Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" who transacted with \(VICTIM NAME, EMAIL ADDRESS\) over the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with a geographic location of \(TOWN & STATE\).  This information should include, but not be limited to, names, addresses, phone numbers, email addresses, username of linked Facebook accounts, date of account creation, Internet Protocol address \(IP address\) of account creation, logged device identification numbers, and logged geolocations or GPS coordinates.  Additional information requested is all IP addresses of account log-ins between \(DATE to DATE\) and any direct messages sent or received or sent during that time period.*  
+
+Necessary affidavit language:
+
+*Your affiant, through training, experience, and from speaking to other more experienced investigators, is aware that Letgo can and will collect user information at the instance of account creation and through account usage. Letgo provides notice of this information collection in their published Terms of Use and Privacy Policy.  The information collected by Letgo can include names, addresses, email addresses, mobile phone numbers, Internet Protocol addresses, and device identifiers such as MAC addreses, Android ID numbers, IMEI, MEID, and ESN numbers.*  
+
+__**SERVICE OF COURT ORDERS**__  
+
+Letgo accepts legal documents by email: <lawenforcement@letgo.com>  

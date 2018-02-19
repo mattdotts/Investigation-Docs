@@ -20,7 +20,8 @@ Law enforcement exigent circumstances emergency line: 425-598-0282
 
 **INFORMATION COLLECTED BY BUSINESS**  
 
-Upon service of a Search Warrant or Court Order, OfferUp may be able to provide the following:  
+Upon service of a Search Warrant or Court Order, OfferUp may be able to provide the following:
+
 * Names provided at account creation
 * Email address used for account creation
 * Facebook account - if linked and used for sign-in
@@ -33,7 +34,7 @@ Upon service of a Search Warrant or Court Order, OfferUp may be able to provide 
 
 **LAW ENFORCEMENT ASSISTANCE LEGAL GUIDE**   
 
-OfferUp has not published a stand-alone law enforcement legal guide.  A law enforcement resources page is published on the website.  This page is located at: [OfferUp Law Enforcement Page] (https://ask.offerup.com/Trust-Safety/Resources/887967481/Law-Enforcement-Resources.htm)    
+OfferUp has not published a stand-alone law enforcement legal guide.  A law enforcement resources page is published on the website.  This page is located at: [OfferUp Law Enforcement Page](https://ask.offerup.com/Trust-Safety/Resources/887967481/Law-Enforcement-Resources.htm)    
 
 **INFORMATION COLLECTED BY APPLICATION AT SIGN-UP**   
 
@@ -69,15 +70,15 @@ Necessary affidavit language:
 
 OfferUp requires that all legal orders be submitted through email or U.S Mail.  Legal orders will not be accepted by fax.  
 
-OfferUp accepts legal documents by email: <records@offerup.com>  
+OfferUp advises the most efficient method is through email: <records@offerup.com>  
 
 **DEVICE FORENSIC ARTIFACTS**  
 
 ANDROID  
 
-The Letgo application version 2.3.7 was installed on a HTC One operating Android 6 Marshmello.  The device WAS NOT jailbroke.  The application requests the following permissions: Camera, Contacts, Locations, Phone, and Storage.  
+The OfferUp application version 2.27.1 was installed on a HTC One operating Android 6 Marshmello.  The device WAS NOT jailbroke.    
 
-The app was used to post an item for sale to the classified ad sales space.  This ad included text and images.  Several direct messages were exchanged with other Letgo users.  None of this data was deleted prior to the device examination.  
+The app was used to post an item for sale to the classified ad sales space.  This ad included text and images.  Several direct messages were exchanged with other OfferUp users.  None of this data was deleted prior to the device examination.  
 
 A logical exam of the device was conducted using the mobile device forensic tools Cellebrite UFED, Secure View, and Lantern.  All of the tools identified the application was installed on the machine and the email account used for log-in.  None of the images, chat messages, or databases were recovered.  
 
@@ -89,9 +90,9 @@ The device was examined using the mobile device forensic tool Lantern.  The resu
 
 \* Images that were first saved to the camera roll and then posted to the Letgo ad were recovered.  Images taken from within the application were not located.  
 
-The application appears to act strictly as an Internet portal to Letgo servers without storing any data directly to the device.  While the device is  connected to Internet through WiFi or cellular connection, the application shows all user data, including user profile, posted ads, images, and chat message logs.  The app cannot display any of the information when disconnected from the Internet.  
+The application appears to act strictly as an Internet portal to OfferUp servers without storing any data directly to the device.  While the device is  connected to Internet through WiFi or cellular connection, the application shows all user data, including user profile, posted ads, images, and chat message logs.  The app cannot display any of the information when disconnected from the Internet.  
 
-A search warrant served on Letgo seeking user interaction data is advised.   
+A search warrant served on OfferUp seeking user interaction data is advised.   
 
 **ERRORS/OMISSIONS/UPDATES**  
 

@@ -2,7 +2,7 @@
 
 **White Paper** - An authoritative report giving information on a product, issue, solution, or service.  
 
-___  
+---
 
 Welcome to my collection of Investigative White papers.  These are designed to assist law enforcement investigators obtain information from technology companies and Internet service providers that may hold data pertinent to criminal investigations.  
 

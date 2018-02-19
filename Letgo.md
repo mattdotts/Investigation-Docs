@@ -59,7 +59,6 @@ Letgo legal department advises the following:
 
 Items to be searched for and seized:
 
-    Suspect is a seller  
+Suspect is a seller  
 
-    *Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  
-    
+*Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  

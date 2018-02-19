@@ -54,4 +54,12 @@ Letgo legal department advises the following:
 *Send the suspects Letgo username, email address, a URL link to the user's profile or listed ad, the victim's Letgo account information, and if available, relevant chat messages between users, in order for Letgo to provide accurate information.  Please include your department name, full name, rank, badge number, case number, and contact information, including phone number and email.*  
 
 *Our release policies require that you submit a subpoena for basic subscriber information, or a search warrant for basic information and content, such as listed items, chat log information, IP addresses, and details.  Upon receipt, we will process the data readily.*  
-   
+
+**SAMPLE SEARCH WARRANT LANGUAGE**  
+
+Items to be searched for and seized:
+
+    Suspect is a seller  
+
+    *Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  
+    

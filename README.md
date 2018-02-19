@@ -1,5 +1,4 @@
-# White-Papers
-Investigative white papers  
+# Investigative White-Papers  
 
 **White Paper** - An authoritative report giving information on a product, issue, solution, or service.  
 

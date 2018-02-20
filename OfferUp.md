@@ -47,7 +47,7 @@ The application is available through either the Apple app store for IOS devices 
 
 **INFORMATION OfferUp REQUIRES TO IDENTIFY TARGET ACCOUNT**    
 
-OfferUp legal department advises the following:  
+OfferUp legal department advises the following information is required:    
 
 * Suspect username  
 * Approximate date and time of transaction
@@ -61,15 +61,15 @@ Items to be searched for and seized:
 
 Suspect is a seller  
 
-*Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  
+*Any and all account records associated with the creation and use of the OfferUp user utilizing the profile name "JOHN DOE" and responsible for posting the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with the geographic location \(TOWN & STATE\). This information should include, but not be limited to names, addresses, phone numbers, email addresses, usernames of linked Facebook accounts, date of account creation, Internet Protocol addresses \(IP address\) of account creation, logged device identification numbers, logged geolocations or GPS coordinates, and user submitted data of posted classified advertisements.  Additional information requested is all IP addresses of account log-in between \(DATE to DATE\) and any direct messages sent or received during that time period.*  
 
 Suspect is a buyer
 
-*Any and all account records associated with the creation and use of the Letgo user utilizing the profile name "JOHN DOE" who transacted with \(VICTIM NAME, EMAIL ADDRESS\) over the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with a geographic location of \(TOWN & STATE\).  This information should include, but not be limited to, names, addresses, phone numbers, email addresses, username of linked Facebook accounts, date of account creation, Internet Protocol address \(IP address\) of account creation, logged device identification numbers, and logged geolocations or GPS coordinates.  Additional information requested is all IP addresses of account log-ins between \(DATE to DATE\) and any direct messages sent or received or sent during that time period.*  
+*Any and all account records associated with the creation and use of the OfferUp user utilizing the profile name "JOHN DOE" who transacted with \(VICTIM NAME, EMAIL ADDRESS\) over the classified ad "EXACT TITLE OF AD" in the \(CLASSIFIED SUBSECTION\) on \(DATE\) marked with a geographic location of \(TOWN & STATE\).  This information should include, but not be limited to, names, addresses, phone numbers, email addresses, username of linked Facebook accounts, date of account creation, Internet Protocol address \(IP address\) of account creation, logged device identification numbers, and logged geolocations or GPS coordinates.  Additional information requested is all IP addresses of account log-ins between \(DATE to DATE\) and any direct messages sent or received or sent during that time period.*  
 
 Necessary affidavit language:
 
-*Your affiant, through training, experience, and from speaking to other more experienced investigators, is aware that Letgo can and will collect user information at the instance of account creation and through account usage. Letgo provides notice of this information collection in their published Terms of Use and Privacy Policy.  The information collected by Letgo can include names, addresses, email addresses, mobile phone numbers, Internet Protocol addresses, and device identifiers such as MAC addreses, Android ID numbers, IMEI, MEID, and ESN numbers.*  
+*Your affiant, through training, experience, and from speaking to other more experienced investigators, is aware that OfferUp can and will collect user information at the instance of account creation and through account usage. OfferUp provides notice of this information collection in their published Terms of Use and Privacy Policy.  The information collected by OfferUp can include names, addresses, email addresses, mobile phone numbers, Internet Protocol addresses, and device identifiers such as MAC addreses, Android ID numbers, IMEI, MEID, and ESN numbers.*  
 
 **SERVICE OF COURT ORDERS**  
 
@@ -81,7 +81,7 @@ OfferUp advises the most efficient method is through email: <records@offerup.com
 
 ANDROID  
 
-The OfferUp application version 2.27.1 was installed on a HTC One operating Android 6 Marshmello.  The device WAS NOT jailbroke.    
+The OfferUp application version 2.27.1 was installed on a HTC One operating Android 6 Marshmellow.  The device WAS NOT jailbroke.    
 
 The app was used to post an item for sale to the classified ad sales space.  This ad included text and images.  Several direct messages were exchanged with other OfferUp users.  None of this data was deleted prior to the device examination.  
 
@@ -96,6 +96,8 @@ The device was examined using the mobile device forensic tool Lantern.  The resu
 \* Images that were first saved to the camera roll and then posted to the Letgo ad were recovered.  Images taken from within the application were not located.  
 
 The application appears to act strictly as an Internet portal to OfferUp servers without storing any data directly to the device.  While the device is  connected to Internet through WiFi or cellular connection, the application shows all user data, including user profile, posted ads, images, and chat message logs.  The app cannot display any of the information when disconnected from the Internet.  
+
+\** Findings may be different for a device that is jailbroken and p rovides for full access to the operating system = physical acquisition. 
 
 A search warrant served on OfferUp seeking user interaction data is advised.   
 

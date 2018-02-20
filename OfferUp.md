@@ -6,6 +6,11 @@
 ___
 **INTRODUCTION**    
 
+OfferUp is a mobile application classified advertisement service founded in 2011 and headquartered in the suburbs of Seattle, Washington.  The service promotes itself as, "the largest mobile marketplace in the United States", having facilitated the exchange of over 20 billion dollars of goods in 2017.  It is estimated to have 7.3 million monthly users and routinely ranks in the top ten downloads for both the Apple IOS and Android applications.  
+
+The application allows users to earn verification badges and positive review attributes to build trust between buyers and sellers.  Users can also link profiles from other social media accounts such as Facebook.  The application includes a chat function that allows buyers and sellers to instantly connect and communicate within the app.  This eliminates the need for external communication sources such as email and telephone.  
+
+The business is privately owned by co-founders Nick Huzvar and Arean Van Velelan.  
 
 **BUSINESS CONTACT INFORMATION**    
 
@@ -42,7 +47,7 @@ The application is available through either the Apple app store for IOS devices 
 
 **INFORMATION OfferUp REQUIRES TO IDENTIFY TARGET ACCOUNT**    
 
-Letgo legal department advises the following:  
+OfferUp legal department advises the following:  
 
 * Suspect username  
 * Approximate date and time of transaction
@@ -84,7 +89,7 @@ A logical exam of the device was conducted using the mobile device forensic tool
 
 APPLE IOS  
 
-The Letgo application was installed on an Apple Ipad operating IOS 11.2.1.  As with the Android device the app was used to post a sale ad and exchange chat messages with other users.  
+The OfferUp application was installed on an Apple Ipad operating IOS 11.2.1.  As with the Android device the app was used to post a sale ad and exchange chat messages with other users.  
 
 The device was examined using the mobile device forensic tool Lantern.  The results were similar to those found during the examination of the Android device as none of the images, chat messages, or databases were recovered.
 

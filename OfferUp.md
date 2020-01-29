@@ -2,7 +2,7 @@
 
 ### An investigative white paper providing law enforcement guidance for the classified ad application OfferUp.
 
-###### Release 1.1 \(02/15/18\)
+###### Release 1.2 \(01/29/20\)
 ___
 **INTRODUCTION**    
 
@@ -15,13 +15,14 @@ The business is privately owned by co-founders Nick Huzvar and Arean Van Velelan
 **BUSINESS CONTACT INFORMATION**    
 
 OfferUp Inc.  
-1715 114th Ave. SE  
-Suite 100  
-Bellvue, WA 98004  
+227 Bellevue Way NE
+/#57
+Bellvue, WA 98004 
+844-633-3787
 
-<records@offerup.com>  
+24 hour Law Enforcement exigent response hotline 425-598-0282
 
-Law enforcement exigent circumstances emergency line: 425-598-0282  
+<records@offerup.com>   
 
 **INFORMATION COLLECTED BY BUSINESS**  
 
@@ -75,31 +76,7 @@ Necessary affidavit language:
 
 OfferUp requires that all legal orders be submitted through email or U.S Mail.  Legal orders will not be accepted by fax.  
 
-OfferUp advises the most efficient method is through email: <records@offerup.com>  
-
-**DEVICE FORENSIC ARTIFACTS**  
-
-ANDROID  
-
-The OfferUp application version 2.27.1 was installed on a HTC One operating Android 6 Marshmellow.  The device WAS NOT jailbroke.    
-
-The app was used to post an item for sale to the classified ad sales space.  This ad included text and images.  Several direct messages were exchanged with other OfferUp users.  None of this data was deleted prior to the device examination.  
-
-A logical exam of the device was conducted using the mobile device forensic tools Cellebrite UFED, Secure View, and Lantern.  All of the tools identified the application was installed on the machine and the email account used for log-in.  None of the images, chat messages, or databases were recovered.  
-
-APPLE IOS  
-
-The OfferUp application was installed on an Apple Ipad operating IOS 11.2.1.  As with the Android device the app was used to post a sale ad and exchange chat messages with other users.  
-
-The device was examined using the mobile device forensic tool Lantern.  The results were similar to those found during the examination of the Android device as none of the images, chat messages, or databases were recovered.
-
-\* Images that were first saved to the camera roll and then posted to the Letgo ad were recovered.  Images taken from within the application were not located.  
-
-The application appears to act strictly as an Internet portal to OfferUp servers without storing any data directly to the device.  While the device is  connected to Internet through WiFi or cellular connection, the application shows all user data, including user profile, posted ads, images, and chat message logs.  The app cannot display any of the information when disconnected from the Internet.  
-
-\** Findings may be different for a device that is jailbroken and p rovides for full access to the operating system = physical acquisition. 
-
-A search warrant served on OfferUp seeking user interaction data is advised.   
+OfferUp advises the most efficient method is through email: <records@offerup.com>     
 
 **ERRORS/OMISSIONS/UPDATES**  
 
@@ -122,3 +99,6 @@ The author is not an attorney and therefor not qualified to provide legal advice
  1/10/18 - V.1.0 Original Publication  
 
  2/17/18 - V.1.1 Document of findings- Android device examined with Cellebrite UFED 6.4.5.119  
+ 
+ 1/29/20 - V.1.2 Updated contact information, deleted outdated forensic exam info
+ 

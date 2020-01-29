@@ -2,7 +2,7 @@
 
 ### An investigative white paper providing law enforcement guidance for the classified ad application Letgo.
 
-###### Release 1.1 \(02/17/18\)
+###### Release 1.2 \(01/29/20\)
 ___
 **INTRODUCTION**  
 
@@ -15,9 +15,11 @@ Letgo is a subsidiary of Ambatana Holdings B.V. headquartered in the Netherlands
 Letgo  
 P.O. Box 924  
 New York, NY  10014  
-347-433-8912   
-
+650-453-8461   
 <lawenforcement@letgo.com>  
+
+They will also accept general questions from law enforcement through the Law Enforcement portal at https://we.letgo.com/law-enforcement
+
 
 **BUSINESS CONTACT INFORMATION**    
 
@@ -73,30 +75,8 @@ Necessary affidavit language:
 
 **SERVICE OF COURT ORDERS**  
 
-Letgo accepts legal documents by email: <lawenforcement@letgo.com>  
-
-**DEVICE FORENSIC ARTIFACTS**  
-
-ANDROID  
-
-The Letgo application version 2.3.7 was installed on a HTC One operating Android 6 Marshmello.  The device WAS NOT jailbroke.  The application requests the following permissions: Camera, Contacts, Locations, Phone, and Storage.  
-
-The app was used to post an item for sale to the classified ad sales space.  This ad included text and images.  Several direct messages were exchanged with other Letgo users.  None of this data was deleted prior to the device examination.  
-
-A logical exam of the device was conducted using the mobile device forensic tools Cellebrite UFED, Secure View, and Lantern.  All of the tools identified the application was installed on the machine and the email account used for log-in.  None of the images, chat messages, or databases were recovered.  
-
-APPLE IOS  
-
-The Letgo application was installed on an Apple Ipad operating IOS 11.2.1.  As with the Android device the app was used to post a sale ad and exchange chat messages with other users.  
-
-The device was examined using the mobile device forensic tool Lantern.  The results were similar to those found during the examination of the Android device as none of the images, chat messages, or databases were recovered.
-
-\* Images that were first saved to the camera roll and then posted to the Letgo ad were recovered.  Images taken from within the application were not located.  
-
-The application appears to act strictly as an Internet portal to Letgo servers without storing any data directly to the device.  While the device is  connected to Internet through WiFi or cellular connection, the application shows all user data, including user profile, posted ads, images, and chat message logs.  The app cannot display any of the information when disconnected from the Internet.  
-
-A search warrant served on Letgo seeking user interaction data is advised.   
-
+Letgo Law Enforcement Portal - https://we.letgo.com/law-enforcement  
+ 
 **ERRORS/OMISSIONS/UPDATES**  
 
 This information is published with no guarantees or promises and is correct to the authors best knowledge.  
@@ -118,3 +98,5 @@ The author is not an attorney and therefor not qualified to provide legal advice
  1/10/18 - V.1.0 Original Publication  
 
  2/17/18 - V.1.1 Document of findings- Android device examined with Cellebrite UFED 6.4.5.119  
+ 
+ 1/28/20 - V.1.2 Update contact information, remove outdated forensic exam information

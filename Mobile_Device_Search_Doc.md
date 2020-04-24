@@ -28,13 +28,13 @@ List the crime for which you believe the device contains evidence to support. Th
 
 ### Affidavit:
 
-<u>Paragraph 1</u>:  Officer biography – Introduce yourself and your authority to search for and seize evidence during criminal investigations.  Provide a synopsis of education and training – related to the crime your are investigating.  If you are seeking to search a phone for a drug crime there is no need to detail your experience investigating motor vehicle crashes.
+**Paragraph 1**:  Officer biography – Introduce yourself and your authority to search for and seize evidence during criminal investigations.  Provide a synopsis of education and training – related to the crime your are investigating.  If you are seeking to search a phone for a drug crime there is no need to detail your experience investigating motor vehicle crashes.
 
-Paragraph 2: Provide facts to support probable cause to search the device.  Who, What, Where, When and How!
+**Paragraph 2**: Provide facts to support probable cause to search the device.  Who, What, Where, When and How!
 
-Paragraph 3: Particularity – link the device to the crime.  Why do you believe there is evidence of the crime contained within the contents of the device. Explain what you are searching for on the device and how it is connected to the criminal act or furthers the investigation.
+**Paragraph 3**: Particularity – link the device to the crime.  Why do you believe there is evidence of the crime contained within the contents of the device. Explain what you are searching for on the device and how it is connected to the criminal act or furthers the investigation.
 
-Paragraph 4:  Provide justification for enhanced manipulation and forensic procedures to access data stored on the device.
+**Paragraph 4**:  Provide justification for enhanced manipulation and forensic procedures to access data stored on the device.
 
 Example:
 
@@ -50,11 +50,11 @@ Authorization is also requested to execute this warrant and to conduct a forensi
 
 Authorization is also requested to utilize enhanced forensic techniques to access files that have been hidden, erased, compressed, password protected, coded or encrypted.
 
-Paragraph 5:  OPTIONAL.  Justify access to cloud accounts.  Explain that these devices access external storage through the Internet.  You must provide details on what cloud accounts you want to access and why you believe there is evidence of the crime store within this cloud drive.
+**Paragraph 5**:  OPTIONAL.  Justify access to cloud accounts.  Explain that these devices access external storage through the Internet.  You must provide details on what cloud accounts you want to access and why you believe there is evidence of the crime store within this cloud drive.
 
 You cannot just say – “any and all cloud storage accounts”. That could be dozens of accounts that have absolutely no connection to the crime.  For example, if you are investigating the sale of illegal drugs, it is completely justified for you to request access to the user's Google maps data to see where he is traveling to conduct sales.  There would be no justification for you to access his health records through the Penn State Health application his device is still logged into.
 
-Paragraph 6: Summarize and specifically request that the search warrant be authorized - just some simple closing to finalize the affidavit.
+**Paragraph 6**: Summarize and specifically request that the search warrant be authorized - just some simple closing to finalize the affidavit.
 
 Example:
 
@@ -64,7 +64,7 @@ As set forth by the facts presented in this affidavit, your affiant believes tha
 
 There is no “Good Faith Exception” in Pennsylvania and the validity of the warrant is based on the content within the “four-corners” of the affidavit page. Rule 203 of the Pennsylvania Rules of Criminal Procedure specifies, “The issuing authority, in determining whether probable cause has been established, may not consider any evidence outside the affidavits.”  You must meet the requirements of probable cause and particularity within the submitted affidavit. See Commonwealth V. Edmunds 526 Pa. 374 (1991).
 
-Particularity: The warrant cannot seek “any and all data” or some other catch all language. (see Commonwealth v. Orie, 88 A.3d 983(Pa. Super. 2014)).  The warrant must particularly describe what data is being sought from the device and the affidavit of probable cause must explain why you are seeking it.  Bonus points if you can narrow down a specific time frame.
+**Particularity**: The warrant cannot seek “any and all data” or some other catch all language. (see Commonwealth v. Orie, 88 A.3d 983(Pa. Super. 2014)).  The warrant must particularly describe what data is being sought from the device and the affidavit of probable cause must explain why you are seeking it.  Bonus points if you can narrow down a specific time frame.
 
 The following is an excerpt from United States V. Winn 79 F. Supp. 3d 904 (S.D. Ill. 2015) regarding particularity and the use of templates:
 

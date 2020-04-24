@@ -77,4 +77,8 @@ This is an evolving document.  You can always download the most up-to-date copy 
 
 https://github.com/mattdotts/Investigation-Docs
 
-Please submit suggestions/edits to mattdotts@gmail.com
+Collaboration is welcomed.  Please submit suggestions/edits to mattdotts[@]gmail[.]com
+
+**Legal Warning**
+
+I am not an attorney.  I often do stupid things, like once thinking I could suck up water with a regular canister vacuum.  Please don't construe anything I write as real legal advice.

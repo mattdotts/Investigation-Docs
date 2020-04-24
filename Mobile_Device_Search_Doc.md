@@ -16,7 +16,7 @@ Long Version:
 
 Data logs that may contain contact names, phone numbers and addresses.  Call logs which detail incoming and outgoing phone calls. SMS and MMS messages and logs that my contain correspondence date and times along with message content. Email messages and attachments. Data files consisting of digital pictures, videos, and documents and access to corresponding data to show creation, modification, access, and deleted dates and times .  Internet browsing records which may contain browsing history, cache, stored cookies, stored websites, stored images, form history, and saved passwords.  Global positioning system (GPS) data which may contain location coordinates, waypoints, tracks, and history. Device specific files and content consisting of application data and stored SQL databases. Stored data, including username and password, linking said phone to another computer, cloud account, or back-up service.
 
-*You must justify the need to collect these items in your affidavit – See notes on particularity*
+<u>*You must justify the need to collect these items in your affidavit – See notes on particularity*</u>
 
 ### Name of Owner:
 
@@ -28,7 +28,7 @@ List the crime for which you believe the device contains evidence to support. Th
 
 ### Affidavit:
 
-Paragraph 1:  Officer biography – Introduce yourself and your authority to search for and seize evidence during criminal investigations.  Provide a synopsis of education and training – related to the crime your are investigating.  If you are seeking to search a phone for a drug crime there is no need to detail your experience investigating motor vehicle crashes.
+<u>Paragraph 1</u>:  Officer biography – Introduce yourself and your authority to search for and seize evidence during criminal investigations.  Provide a synopsis of education and training – related to the crime your are investigating.  If you are seeking to search a phone for a drug crime there is no need to detail your experience investigating motor vehicle crashes.
 
 Paragraph 2: Provide facts to support probable cause to search the device.  Who, What, Where, When and How!
 

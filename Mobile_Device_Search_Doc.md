@@ -50,7 +50,7 @@ Authorization is also requested to execute this warrant and to conduct a forensi
 
 Authorization is also requested to utilize enhanced forensic techniques to access files that have been hidden, erased, compressed, password protected, coded or encrypted.
 
-**Paragraph 5**:  OPTIONAL.  Justify access to cloud accounts.  Explain that these devices access external storage through the Internet.  You must provide details on what cloud accounts you want to access and why you believe there is evidence of the crime store within this cloud drive.
+**Paragraph 5**:  OPTIONAL - If using a forensic tool that allows extraction from cloud storage (Cellebrite Cloud Analyzer) - justify access to cloud accounts.  Explain that these devices access external storage through the Internet.  You must provide details on what cloud accounts you want to access and why you believe there is evidence of the crime store within this cloud drive.
 
 You cannot just say – “any and all cloud storage accounts”. That could be dozens of accounts that have absolutely no connection to the crime.  For example, if you are investigating the sale of illegal drugs, it is completely justified for you to request access to the user's Google maps data to see where he is traveling to conduct sales.  There would be no justification for you to access his health records through the Penn State Health application his device is still logged into.
 

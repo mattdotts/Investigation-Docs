@@ -73,8 +73,8 @@ The major, overriding problem with the description of the object of the searchâ€
 *************************************************************************************************************
 You are reading Version 1.2.2 published 4/24/20
 
-You can always download the most up-to-date copy from:
+This is an evolving document.  You can always download the most up-to-date copy from:
 
 https://github.com/mattdotts/Investigation-Docs
 
-This is an ever-changing document.  Please submit suggestions/edits to mattdotts@gmail.com
+Please submit suggestions/edits to mattdotts@gmail.com

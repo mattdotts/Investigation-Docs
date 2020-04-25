@@ -28,46 +28,69 @@
 
 **Encryption**
 
-Do you use encryption software on any of your devices?
+* Do you use encryption software on any of your devices?
+
 ..* What software
+
 ..* What devices
+
 ..* What are the encryptions keys or passwords?
-Are any of the device’s password protected?  
+
+* Are any of the device’s password protected?
+
 ..* What devices
+
 ..* What are the passwords
-Have you ever hidden files on any of your devices?
-If you’ve hidden files, how?
-Do any of your devices have hidden partitions or volumes?
-Does anyone else know your passwords?	Do you use a password manager?  
-What is the password?
-Do you have any passwords written down?
-Have you ever used a disk wiping program?  
+
+* Have you ever hidden files on any of your devices?
+
+* If you’ve hidden files, how?
+
+* Do any of your devices have hidden partitions or volumes?
+
+* Does anyone else know your passwords?	Do you use a password manager?
+
+* What is the password?
+
+* Do you have any passwords written down?
+
+* Have you ever used a disk wiping program?
+
 ..* What program and when
-What are the last ten passwords you’ve used?
+
+* What are the last ten passwords you’ve used?
 
 **Proving control of a device**
 
-For each found device – Is this device yours?  
-How did you get it?  
-If not the owner – who’s is it, why do you have it?
-Who has permission to use it?
-Who has access to it?
-Who has login and password information? 
-Does anyone else use the device on a regular basis?
-When?
-Does it have remote access enabled?
+* For each found device – Is this device yours?  
+
+* How did you get it?  
+
+* If not the owner – who’s is it, why do you have it?
+
+* Who has permission to use it?
+
+* Who has access to it?
+
+* Who has login and password information?
+
+* Does anyone else use the device on a regular basis?
+
+..* When?
+
+* Does it have remote access enabled?
 
 **File and data storage**
 
-Do you have data stored anywhere other than on “this” device?
-Do you use cloud storage services?
-..* Which ones
-..* What do you store there
-..* logins and passwords (if possible)
-Does anyone else have access to your cloud accounts?
-Do you use removable media (USB thumb drives, SD Cards ect…)
-Do you use network attached storage (NAT)?
-Do you make back-ups of your data? Off-site?
+* Do you have data stored anywhere other than on “this” device?
+* Do you use cloud storage services?
+  ..* Which ones
+  ..* What do you store there
+  ..* logins and passwords (if possible)
+* Does anyone else have access to your cloud accounts?
+* Do you use removable media (USB thumb drives, SD Cards ect…)
+* Do you use network attached storage (NAT)?
+* Do you make back-ups of your data? Off-site?
 
 **Exploring Internet usage**
 

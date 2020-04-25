@@ -2,18 +2,29 @@
 
 **Establish level of competency**
 
-How many digital devices and computers do you own?
-What locations do you have computer devices – home, work, school?
-Do you have any computer training or education?  Programing or Coding?
-Have you ever modified a computer, built a computer, or written code?
-What operating systems do you use?
-How often do you use computer devices?
-What anti-virus software do you use?
-Have you ever had a device infected with a virus or malware?  If so, how and what did you do about it?
-Have you ever reformatted any of your devices?
-Do you maintain any websites, blogs, or message forums?
-Have you ever participated in a CTF (capture the flag) event?
-Have you ever identified a bug or exploit in a program or code?
+* How many digital devices and computers do you own?
+
+* What locations do you have computer devices – home, work, school?
+
+* Do you have any computer training or education?  Programing or Coding?
+
+* Have you ever modified a computer, built a computer, or written code?
+
+* What operating systems do you use?
+
+* How often do you use computer devices?
+
+* What anti-virus software do you use?
+
+* Have you ever had a device infected with a virus or malware?  If so, how and what did you do about it?
+
+* Have you ever reformatted any of your devices?
+
+* Do you maintain any websites, blogs, or message forums?
+
+* Have you ever participated in a CTF (capture the flag) event?
+
+* Have you ever identified a bug or exploit in a program or code?
 
 **Encryption**
 

@@ -6,7 +6,7 @@
 ___
 ## NEWS UPDATE
 
-**Letgo was purchased by OfferUp on March 26, 2020 and became a wholly owned subsidiary.  OfferUp has not yet released law enforcement guidance.  The Letgo law enforcement portal is still active. **
+**Letgo was purchased by OfferUp on March 26, 2020 and became a wholly owned subsidiary.  OfferUp has not yet released law enforcement guidance.  The Letgo law enforcement portal is still active.**
 
 **INTRODUCTION**  
 

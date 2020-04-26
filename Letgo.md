@@ -2,13 +2,17 @@
 
 ### An investigative white paper providing law enforcement guidance for the classified ad application Letgo.
 
-###### Release 1.2 \(01/29/20\)
+###### Release 1.3 \(04/24/20\)
 ___
+## NEWS UPDATE
+
+**Letgo was purchased by OfferUp on March 26, 2020 and became a wholly owned subsidiary.  OfferUp has not yet released law enforcement guidance.  The Letgo law enforcement portal is still active. **
+
 **INTRODUCTION**  
 
 Letgo is a no-fee classified advertisement platform that allows users to buy and sell items locally.  The application includes a chat function that allows buyers and sellers to instantly connect and communicate within the app.  This eliminates the need for external communications such as phone and email which can result in missed connection and time delays.  
 The Letgo application is available for both IOS and Android mobile devices.  There is also a web based version for those users utilizing traditional computer devices.  Letgo claims 75 million app downloads and over 200 million classified as listings since its launch in 2015.  The company claims that sellers are currently listing over 500,000 ads per day.  
-Letgo is a subsidiary of Ambatana Holdings B.V. headquartered in the Netherlands.  It has offices on both New York, New York and Barcelona, Spain.  
+~~Letgo is a subsidiary of Ambatana Holdings B.V. headquartered in the Netherlands.  It has offices on both New York, New York and Barcelona, Spain.~~ 
 
 **LAW ENFORCEMENT CONTACT INFORMATION**  
 
@@ -18,15 +22,7 @@ New York, NY  10014
 650-453-8461   
 <lawenforcement@letgo.com>  
 
-They will also accept general questions from law enforcement through the Law Enforcement portal at https://we.letgo.com/law-enforcement
-
-
-**BUSINESS CONTACT INFORMATION**    
-
-Ambatana Holdings B.V.   
-175 Varick St.  
-New York, NY 10014  
-650-453-8461  
+They will also accept general questions from law enforcement through the Law Enforcement portal at https://we.letgo.com/law-enforcement 
 
 **INFORMATION COLLECTED BY BUSINESS**  
 
@@ -76,7 +72,7 @@ Necessary affidavit language:
 **SERVICE OF COURT ORDERS**  
 
 Letgo Law Enforcement Portal - https://we.letgo.com/law-enforcement  
- 
+
 **ERRORS/OMISSIONS/UPDATES**  
 
 This information is published with no guarantees or promises and is correct to the authors best knowledge.  
@@ -89,7 +85,7 @@ The author is not an attorney and therefor not qualified to provide legal advice
 
 **CONTACT INFORMATION**  
 
- mattdotts@protonmail.com   
+ mattdotts[@]gmail[.]com  
 
  Twitter \@mattdotts
 
@@ -98,5 +94,7 @@ The author is not an attorney and therefor not qualified to provide legal advice
  1/10/18 - V.1.0 Original Publication  
 
  2/17/18 - V.1.1 Document of findings- Android device examined with Cellebrite UFED 6.4.5.119  
- 
+
  1/28/20 - V.1.2 Update contact information, remove outdated forensic exam information
+
+4/24/20 - V.1.3 Letgo was purchased by OfferUp

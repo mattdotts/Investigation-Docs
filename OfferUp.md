@@ -90,7 +90,7 @@ The author is not an attorney and therefor not qualified to provide legal advice
 
 **CONTACT INFORMATION**  
 
- mattdotts@protonmail.com   
+ mattdotts[@]gmail[.]com   
 
  Twitter \@mattdotts
 
@@ -99,6 +99,6 @@ The author is not an attorney and therefor not qualified to provide legal advice
  1/10/18 - V.1.0 Original Publication  
 
  2/17/18 - V.1.1 Document of findings- Android device examined with Cellebrite UFED 6.4.5.119  
- 
+
  1/29/20 - V.1.2 Updated contact information, deleted outdated forensic exam info
- 
+

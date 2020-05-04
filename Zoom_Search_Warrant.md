@@ -19,6 +19,7 @@ All known account information for user "tigerkingDave717" as assigned on May 4, 
 **Name of Owner:**
 
 Custodian of Records – Zoom Video Communications, Inc.
+
 Zoom user John Doe using an email address of johndoe1212@gmail.com (this should be the host of the meeting)
 
 **Violation of:**
@@ -59,7 +60,6 @@ Professor Eugene Volokh of the UCLA School of Law published an insightful and ti
 *_Who has jurisdiction to investigate an offense?_*  The commonsense answer is the law enforcement agency that has jurisdiction over where the HOST was seated (home or work).  Another opinion is that anyone who was in the meeting and was exposed the egregious communication could claim victimhood.   Consult with your District Attorney for an opinion.  
 
 Legal Service:
-
 Zoom accepts Preservation Requests, Search Warrants, and Subpoena's through email:  lawenforcement@zoom.us
 
 ---

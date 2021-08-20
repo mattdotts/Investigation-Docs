@@ -15,6 +15,7 @@
 * Have you ever participated in a CTF (capture the flag) event?
 * Have you ever identified a bug or exploit in program or other code?
 * Can you explain what an Internet Protocol address is?
+* Can you explain DNS? (Domain Name System)
 
 **Encryption**
 
@@ -67,6 +68,7 @@
   - How long with the service?
   - What other services have you used?
 * Does your home/work have wi-fi access? Is access password protected?
+* Do you rent a router from your ISP, or use your own?
 * Who all has the password to the wi-fi network?
 * Have you ever noticed any suspicious usage of the service?
 * What Internet browsers do you use?
@@ -102,11 +104,10 @@
 
 ### NOTES
 
-Use these questions to form your interview.  There is no better time to collect information than during the initial contact.  Gathering this information in the first conversation
-will defeat later denials and alibis.  And collecting password and encryption information make you digital forensic examiner very, very, happy. :)
+Use these questions to form your interview.  There is no better time to collect information than during the initial contact.  Gathering this information in the first conversation will defeat later denials and alibis.  And collecting password and encryption information will make you digital forensic examiner very, very, happy. :)
 
 ***
-You are reading Version 2.1.1 published 4/26/2020
+You are reading Version 2.1 published 8/20/2021
 
 This is an evolving document.  You can always download the most up-to-date copy from:
 

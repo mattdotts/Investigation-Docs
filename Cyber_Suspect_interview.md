@@ -109,7 +109,11 @@
 
 Use these questions to form your interview.  There is no better time to collect information than during the initial contact.  Gathering this information in the first conversation will defeat later denials and alibis.  And collecting password and encryption information will make you digital forensic examiner very, very, happy. :)
 
----- 
 You are reading Version 2023.2 published 6/24/2023
 
 Collaboration is welcomed.  Please send suggestions/edits to mattdotts[@]gmail[.]com
+
+Subscribe to the Threats Without Borders Newsletter at [https://cyficrime.substack.com/][1]
+
+
+[1]:	https://cyficrime.substack.com/

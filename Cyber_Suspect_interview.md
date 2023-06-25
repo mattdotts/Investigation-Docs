@@ -55,8 +55,9 @@
   - What data do you store there?
   - What are the logins and passwords?
 * Does anyone else have access to your cloud accounts?
+* What folders do you back up to cloud accounts?
 * Do you use removable media for storage (USB drives, SD cards ect...)?
-* Do you use network attached storage (NAT)?
+* Do you use network attached storage (NAS)?
 * Do you make back-ups of your data?  If so where are they?
 
 **Exploring Internet usage**
@@ -107,10 +108,6 @@
 Use these questions to form your interview.  There is no better time to collect information than during the initial contact.  Gathering this information in the first conversation will defeat later denials and alibis.  And collecting password and encryption information will make you digital forensic examiner very, very, happy. :)
 
 ***
-You are reading Version 2.1 published 8/20/2021
-
-This is an evolving document.  You can always download the most up-to-date copy from:
-
-https://github.com/mattdotts/Investigation-Docs
+You are reading Version 2.2 published 8/20/2022
 
 Collaboration is welcomed.  Please send suggestions/edits to mattdotts[@]gmail[.]com

@@ -16,6 +16,7 @@
 * Have you ever identified a bug or exploit in program or other code?
 * Can you explain what an Internet Protocol address is?
 * Can you explain DNS? (Domain Name System)
+* Can you explain generative technology? 
 
 **Encryption**
 
@@ -38,7 +39,7 @@
 
 **Proving control of the device**
 
-* For each known device, identify the device and ask - "Is this your device?"
+* For each known (collected) device, identify the device and ask - "Is this your device?"
 * How did you obtain it?
 * Who has permission to use it?
 * Who has access to it?
@@ -75,16 +76,17 @@
 * What Internet browsers do you use?
 * Have you ever cleared your browsing history?
 * Have you ever attempted to shield your IP address?
-  - If yes, when, how, and why?
+- If yes, when, how, and why?
 * What search engines do you use?
 * Have you ever utilized a Virtual Private Network (VPN)?
-  - If so, why, how, what service, and what devices?
+- If so, why, how, what service, and what devices?
 * Have you ever utilized the TOR network?  Why?
 * What email services do you use?  What are the addresses?
 * What social media services do you use?  Usernames?
 * Does anyone else have the passwords and/or access to your accounts?
 * Have you ever noticed suspicious activity or unauthorized use of your accounts?
 * Have you ever utilized peer-to-peer (P2P) software? Why?
+* Do you use AI services like ChatGPT or Google Bard?
 
 **Mobile device specific**
 
@@ -101,13 +103,13 @@
 * Is your back-up encrypted?  If so, what is the password/key?
 * Do you have any hidden apps on your device?  What/Where/Passcode?
 * Do you have any apps designed to conceal data on your device?
-  - What are they and how do you access the content?
+- What are they and how do you access the content?
 
 ### NOTES
 
 Use these questions to form your interview.  There is no better time to collect information than during the initial contact.  Gathering this information in the first conversation will defeat later denials and alibis.  And collecting password and encryption information will make you digital forensic examiner very, very, happy. :)
 
-***
-You are reading Version 2.2 published 8/20/2022
+---- 
+You are reading Version 2023.2 published 6/24/2023
 
 Collaboration is welcomed.  Please send suggestions/edits to mattdotts[@]gmail[.]com

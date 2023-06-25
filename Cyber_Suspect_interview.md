@@ -48,6 +48,8 @@
 * Can it be accessed remotely?  If so, through what service?
 * If they claim to not own the device - who's is it and why do you have it?
 
+
+
 **File and data storage**
 
 * Do you have data stored anywhere other than on "X" device?
@@ -111,7 +113,7 @@ Use these questions to form your interview.  There is no better time to collect 
 
 You are reading Version 2023.2 published 6/24/2023
 
-Collaboration is welcomed.  Please send suggestions/edits to mattdotts[@]gmail[.]com
+Collaboration is welcomed.  Please send suggestions and/or edits to mattdotts (at) gmail (dot) com
 
 Subscribe to the Threats Without Borders Newsletter at [https://cyficrime.substack.com/][1]
 

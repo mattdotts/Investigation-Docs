@@ -46,9 +46,9 @@
 * Who else has the login-in and password information?
 * Does anyone else use the device on a regular basis?
 * Can it be accessed remotely?  If so, through what service?
+* Have you noticed it a decrease in batter life?
+* Do you see it change screens without action from you?
 * If they claim to not own the device - who's is it and why do you have it?
-
-
 
 **File and data storage**
 
